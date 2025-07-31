@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/paradisenursery/static/css/main.823fadde.css",
-    "main.js": "/paradisenursery/static/js/main.c2f57567.js",
+    "main.js": "/paradisenursery/static/js/main.196fb22c.js",
     "static/js/453.3c76ffec.chunk.js": "/paradisenursery/static/js/453.3c76ffec.chunk.js",
     "static/media/green-house-img.jpg": "/paradisenursery/static/media/green-house-img.06d0df4008c715f83d0e.jpg",
     "index.html": "/paradisenursery/index.html",
     "main.823fadde.css.map": "/paradisenursery/static/css/main.823fadde.css.map",
-    "main.c2f57567.js.map": "/paradisenursery/static/js/main.c2f57567.js.map",
+    "main.196fb22c.js.map": "/paradisenursery/static/js/main.196fb22c.js.map",
     "453.3c76ffec.chunk.js.map": "/paradisenursery/static/js/453.3c76ffec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.823fadde.css",
-    "static/js/main.c2f57567.js"
+    "static/js/main.196fb22c.js"
   ]
 }
