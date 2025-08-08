@@ -131,7 +131,7 @@ function App() {
                 />
               ))}
               <h3>Total: USD{totalCost}</h3>
-              <button onClick={() => alert("Thanks for your order!")}>Checkout</button>
+              <button onClick={() => alert("Coming soon")}>Checkout</button>
             </div>
           )}
         </div>

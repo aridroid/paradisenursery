@@ -8,8 +8,8 @@ function ProductCard({ item, onAddToCart, cart }) {
       <h3>{item.name}</h3>
       <p>USD{item.price}</p>
       <p>{item.description}</p>
-      
-      <button 
+
+      <button
         onClick={() => onAddToCart(item)}
         disabled={isInCart}
       >
